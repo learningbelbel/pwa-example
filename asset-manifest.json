@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pwa-example.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/pwa-example.github.io/static/js/main.a6e9a543.js",
+    "static/js/787.93e2d296.chunk.js": "/pwa-example.github.io/static/js/787.93e2d296.chunk.js",
+    "service-worker.js": "/pwa-example.github.io/service-worker.js",
+    "static/media/logo.svg": "/pwa-example.github.io/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/pwa-example.github.io/index.html",
+    "main.073c9b0a.css.map": "/pwa-example.github.io/static/css/main.073c9b0a.css.map",
+    "main.a6e9a543.js.map": "/pwa-example.github.io/static/js/main.a6e9a543.js.map",
+    "787.93e2d296.chunk.js.map": "/pwa-example.github.io/static/js/787.93e2d296.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a6e9a543.js"
+  ]
+}
